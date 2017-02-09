@@ -12,7 +12,7 @@ define([], function() {
         //http://developers.arcgis.com/en/javascript/jshelp/ags_proxy.html
         "proxyurl": "",
         //UI specific parameters
-        "title": "Summary Viewer",
+        "title": "WNC Fire 2016",
         "logo": "",
         "color": "#80ab00",
         //Counter specific parameters

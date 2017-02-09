@@ -4,7 +4,7 @@ define([], function() {
     //and url parameters.
     var defaults = {
         "appid": "",
-        "webmap": "55f15224d4da4b4e98504a4ff3a69119", 
+        "webmap": "b363fbcad1bb44eeb4b986c742edb24a", 
         "oauthappid": null, //"AFTKRmv16wj14N3z",
         //Group templates must support a group url parameter. This will contain the id of the group. 
         //group: "",
@@ -41,7 +41,7 @@ define([], function() {
                 }
             ]
         },
-        "cluster": true,
+        "cluster": false,
         "hideCount": false,
         "hideSummaryType": false,
         "bingmapskey": "", //Enter the url to your organizations bing maps key if you want to use bing basemaps
